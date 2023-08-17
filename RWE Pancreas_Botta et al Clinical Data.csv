@@ -1,0 +1,323 @@
+Pts.ID,Gender,Neoadjuvant Treatment,Resectability,Surgery,Stage,Path Grade,MSI Status,KRAS Mutation,BRCA2 Mutation,Adjuvant Treatment,Radiological Recurrence,Recurrence Site,ctDNA MRD Window,ctDNA Surveillance Window
+1,Male,No,Resectable,Yes,I,,MSS,p.G12V,,Yes,Yes,,,
+2,Male,No,Resectable,Yes,I,,MSS,p.G12D,,Yes,Yes,Local,,Negative
+3,Male,No,Resectable,Yes,II,,MSS,p.G12V,,Yes,Yes,Local,,Positive
+4,Male,No,Resectable,Yes,II,G2,MSS,p.G12D,,Yes,Yes,Lung,,Positive
+5,Male,No,Resectable,Yes,III,G3,MSS,p.G12V,,Yes,No,,Positive,
+6,Male,No,Resectable,Yes,II,G2,MSS,,,Yes,No,,,Negative
+7,Female,No,Resectable,Yes,IV,,MSS,p.G12V,,Yes,Yes,"Liver, Kidney",,
+8,Male,Yes,Resectable,Yes,II,G3,MSS,p.G12D,,Yes,Yes,"Local, Lung",Positive,
+9,Female,No,Resectable,Yes,II,G3,MSS,,,Yes,No,,,Negative
+10,Male,Yes,Unresectable,No,IV,G3,MSS,p.G12R,,Yes,No,,,
+11,Female,No,Resectable,Yes,II,G3,MSS,p.G12R,,Yes,Yes,Liver,Positive,
+12,Female,No,Resectable,Yes,III,,MSS,p.G12D,,Yes,No,,,
+13,Male,Yes,Resectable,Yes,I,G1,MSS,,,Yes,No,,Negative,Negative
+14,Female,No,Resectable,Yes,I,G3,MSS,p.G12R,,Yes,No,,,Negative
+15,Male,No,Resectable,Yes,II,,MSS,,,Yes,Yes,"Local, Liver",,Negative
+16,Female,No,Resectable,Yes,II,,MSS,p.G12D,,Yes,No,,Negative,Negative
+17,Female,Yes,Resectable,Yes,II,G2,MSS,,,Yes,Yes,,Negative,
+18,Female,Yes,Resectable,Yes,IV,,MSS,p.G12D,,Yes,Yes,"Liver, Lung",Positive,
+19,Female,No,Resectable,Yes,II,,MSS,p.G12V,,Yes,Yes,"Local, Lung",,
+20,Male,Yes,Resectable,Yes,I,G3,MSS,p.G12V,,Yes,Yes,Local,Negative,Negative
+21,Female,Yes,Unresectable,No,IV,,MSS,p.G12R,,Yes,Yes,"Liver, Lung",,
+22,Male,No,Resectable,Yes,I,G2,MSS,p.G12D,,Yes,No,,Negative,Negative
+23,Male,No,Resectable,Yes,II,G1,MSS,p.G12R,,Yes,No,,,
+24,Female,Yes,Resectable,Yes,II,G2,MSS,p.G12V,,Yes,Yes,Liver,Positive,
+25,Male,Yes,Unresectable,Yes,III,,MSS,p.G12V,,Yes,Yes,"Local, Liver",,Negative
+26,Male,No,Resectable,Yes,II,G2,MSS,,,Yes,Yes,"Local, Lung",,Negative
+27,Female,Yes,Resectable,Yes,IV,,MSS,p.Q61R,,No,Yes,Liver,Positive,
+28,Male,No,Resectable,Yes,II,G1,MSS,,p.C2212Vfs*17,Yes,No,,Negative,
+29,Female,No,Resectable,Yes,II,G2,MSS,p.G12D,,Yes,Yes,,,Positive
+30,Male,No,Resectable,Yes,II,G2,MSS,p.G12D,,Yes,No,,,
+31,Male,Yes,Resectable,Yes,III,G2,MSS,p.G12D,,Yes,Yes,Liver,,
+32,Male,Yes,Resectable,Yes,III,G2,MSS,p.G12D,,No,No,,,Negative
+33,Male,Yes,Borderline resectable,Yes,II,G3,MSS,,,Yes,No,,,Negative
+34,Female,No,Resectable,Yes,II,G2,MSS,p.G12V,,Yes,No,,,Negative
+35,Female,No,Resectable,Yes,III,G3,MSS,p.G12V,,Yes,Yes,Liver,Positive,Positive
+36,Female,Yes,Resectable,Yes,III,G3,MSS,p.Q61R,,Yes,Yes,"Peritoneum, Lung",,Positive
+37,Male,No,Resectable,Yes,II,G2,MSS,p.G12D,,Yes,Yes,,,Positive
+38,Male,Yes,Resectable,Yes,II,G2,MSS,p.G12R,,Yes,No,,,Positive
+39,Female,No,Resectable,Yes,I,G3,MSS,p.G12D,,No,Yes,Liver,Positive,
+40,Female,Yes,Resectable,Yes,II,G1,MSS,"p.G12R, p.A11G",,No,No,,Negative,Negative
+41,Male,No,Resectable,Yes,II,G2,MSS,,,Yes,Yes,Local,,
+42,Female,No,Resectable,Yes,III,G2,MSS,p.G12V,,Yes,Yes,Peritoneum,,Positive
+43,Male,Yes,Borderline resectable,Yes,I,G2,MSS,p.G12D,,Yes,No,,,Negative
+44,Female,No,Resectable,Yes,I,G2,MSS,p.G12R,,Yes,No,,,Negative
+45,Female,Yes,Resectable,Yes,I,G2,MSS,,,Yes,No,,,Negative
+46,Female,Yes,Resectable,Yes,II,G2,MSS,,,Yes,Yes,Lung,,Negative
+47,Female,Yes,Resectable,Yes,II,G2,MSS,,,Yes,Yes,Peritoneum,Negative,Negative
+48,Male,No,Resectable,Yes,III,,MSS,p.G12R,,Yes,Yes,Local,,Positive
+49,Female,No,Resectable,Yes,I,G1,MSS,p.G12V,,Yes,Yes,Liver,,Negative
+50,Male,No,Resectable,Yes,III,G2,MSS,p.G12V,,Yes,Yes,Local,,Positive
+51,Male,No,Resectable,Yes,III,,MSS,p.G12D,,Yes,Yes,Liver,,Positive
+52,Male,No,Resectable,Yes,II,,MSS,p.G12R,,Yes,Yes,,,Positive
+53,Female,No,Resectable,Yes,II,G3,MSS,p.G12V,,Yes,Yes,Peritoneum,Negative,Positive
+54,Female,No,Resectable,Yes,II,,MSS,p.G12V,,Yes,Yes,Local,,
+55,Female,Yes,Resectable,Yes,III,,MSS,p.G12V,,No,Yes,Lung,,
+56,Female,Yes,Resectable,Yes,I,G3,MSS,p.G12D,,No,No,,Negative,Negative
+57,Female,No,Unresectable,No,II,,MSS,p.G12D,,Yes,Yes,,,
+58,Male,Yes,Resectable,Yes,III,,MSS,,,No,No,,Negative,Negative
+59,Male,No,Resectable,Yes,II,G3,MSS,p.G12V,,Yes,No,,,
+60,Male,No,Resectable,Yes,II,G2,MSS,p.G12D,,Yes,Yes,Peritoneum,,
+61,Male,No,Resectable,Yes,I,G2,MSS,p.G12D,,Yes,No,,,Negative
+62,Male,No,Resectable,Yes,II,G2,MSS,,,Yes,Yes,Local,,
+63,Female,Yes,Unresectable,Yes,III,G3,MSS,,,Yes,Yes,"Local, Peritoneum",Positive,
+64,Male,No,Resectable,Yes,II,G2,MSS,p.G12V,,Yes,No,,Negative,Negative
+65,Male,Yes,Resectable,Yes,III,G2,MSS,p.G12D,,Yes,Yes,"Local, Bone",,Positive
+66,Male,No,Resectable,Yes,II,,MSS,,,Yes,Yes,,,
+67,Male,Yes,Resectable,Yes,II,G2,MSS,,,Yes,No,,Negative,Negative
+68,Male,Yes,Borderline resectable,Yes,III,,MSS,p.G12D,,No,No,,Negative,Negative
+69,Male,No,Unresectable,No,III,,MSS,p.Q61H,,Yes,No,,,
+70,Female,No,Resectable,Yes,II,G3,MSI-Hi,p.G12V,,Yes,No,,Positive,
+71,Female,No,Resectable,Yes,I,G1,MSS,p.G12R,,No,No,,,Negative
+72,Female,Yes,Borderline resectable,Yes,III,G1,MSS,,,No,No,,Negative,Negative
+73,Female,Yes,Resectable,Yes,III,,MSS,p.G12V,,Yes,Yes,,Positive,
+74,Female,No,Unresectable,No,III,,MSS,p.G12V,,Yes,Yes,,,
+75,Female,No,Unresectable,No,II,,MSS,p.Q61H,,Yes,Yes,Peritoneum,,
+76,Male,No,Resectable,Yes,III,,MSS,,,Yes,No,,,Negative
+77,Male,Yes,Resectable,Yes,III,G1,MSS,p.Q61H,,Yes,Yes,Lung,Positive,
+78,Female,Yes,Unresectable,No,IV,,MSS,p.G12R,,Yes,Yes,,,
+79,Female,Yes,Resectable,Yes,IV,,MSS,p.G12V,,No,Yes,Local,,Negative
+80,Male,No,Resectable,Yes,II,G3,MSS,p.G12R,,Yes,No,,,Negative
+81,Female,No,Resectable,Yes,I,G2,MSS,p.G12R,,Yes,Yes,Peritoneum,Negative,Positive
+82,Male,No,Unresectable,No,IV,,MSS,,,Yes,Yes,Mediastinum,,
+83,Male,No,Resectable,Yes,III,,MSS,p.G12D,,Yes,No,,Negative,Negative
+84,Male,No,Unresectable,Yes,IV,,MSS,,,Yes,Yes,,,Positive
+85,Female,Yes,Borderline resectable,Yes,IV,,MSS,p.Q61H,,Yes,Yes,Liver,,
+86,Female,Yes,Borderline resectable,Yes,II,,MSS,p.G12D,,No,No,,Negative,Negative
+87,Female,No,Unresectable,No,IV,,MSS,p.G12R,,Yes,Yes,,,Positive
+88,Male,No,Unresectable,No,IV,,MSS,,,Yes,Yes,,,Negative
+89,Female,No,Borderline resectable,No,I,,MSS,,,Yes,Yes,,,Positive
+90,Female,Yes,Resectable,Yes,II,G3,MSS,,,Yes,No,,Negative,Negative
+91,Female,Yes,Unresectable,No,IV,G2,MSS,p.G12V,,Yes,Yes,Liver,,
+92,Male,No,Resectable,Yes,II,G2,MSS,p.G12D,,Yes,No,,Negative,
+93,Male,Yes,Borderline resectable,Yes,III,,MSS,p.G12D,,No,No,,Negative,Negative
+94,Male,Yes,Resectable,Yes,II,,MSS,,,No,No,,Negative,Negative
+95,Male,No,Resectable,Yes,IV,,MSS,p.G12R,,Yes,Yes,Local,,
+96,Female,No,Resectable,Yes,III,,MSS,p.G12V,p.T3033Nfs*11,Yes,Yes,Local,,Positive
+97,Female,No,Resectable,Yes,II,,MSS,p.G12D,,Yes,No,,,
+98,Female,No,Unresectable,No,IV,,MSS,p.G12V,,Yes,Yes,Peritoneum,,Positive
+99,Male,No,Resectable,Yes,I,G2,MSS,p.Q61H,,Yes,Yes,Local,Negative,Negative
+100,Female,Yes,Borderline resectable,Yes,III,,MSS,p.G12D,,Yes,Yes,Lung,,Positive
+101,Male,Yes,Resectable,Yes,I,,MSS,p.G12D,,No,No,,Negative,Negative
+102,Female,Yes,Resectable,Yes,I,G2,MSS,p.G12D,,Yes,Yes,Liver,Negative,Positive
+103,Female,No,Resectable,Yes,III,G2,MSS,p.G12V,,Yes,Yes,Lung,,
+104,Female,Yes,Resectable,Yes,I,,MSS,p.G13D,,No,No,,,Negative
+105,Female,Yes,Resectable,Yes,II,G2,MSS,p.G12V,,Yes,Yes,"Peritoneum, Bone",,Positive
+106,Female,Yes,Unresectable,No,IV,G1,MSS,p.G12D,,Yes,Yes,,,
+107,Male,Yes,Borderline resectable,Yes,III,,MSS,,,Yes,Yes,Local,,Positive
+108,Male,No,Resectable,Yes,II,G2,MSS,p.G12D,,Yes,No,,Negative,
+109,Male,No,Resectable,Yes,I,,MSS,,,Yes,No,,,Negative
+110,Male,No,Unresectable,No,IV,,MSS,p.G12V,,No,Yes,Local,,
+111,Male,Yes,Resectable,Yes,III,,MSS,p.G12V,,Yes,Yes,Bone,Positive,Positive
+112,Male,Yes,Resectable,Yes,II,,MSS,,,Yes,Yes,Local,,Positive
+113,Male,Yes,Borderline resectable,Yes,I,G2,MSS,p.G12D,,Yes,No,,Negative,Negative
+114,Male,Yes,Borderline resectable,No,II,G2,MSS,p.G12D,,Yes,Yes,,,Positive
+115,Female,Yes,Borderline resectable,Yes,II,,MSS,p.G12R,,Yes,No,,,Negative
+116,Male,No,Unresectable,No,IV,G3,MSS,,,Yes,Yes,Liver,,Positive
+117,Male,No,Unresectable,No,IV,,MSS,p.Q61H,,Yes,Yes,Liver,,
+118,Female,Yes,Unresectable,No,IV,G3,MSS,p.G12D,,No,No,,,
+119,Female,Yes,Borderline resectable,Yes,I,G1,MSS,,,Yes,Yes,"Liver, Lung",Negative,Negative
+120,Male,Yes,Resectable,Yes,IV,G1,MSS,p.G12D,p.L3172F,Yes,Yes,Lung,,
+121,Female,No,Unresectable,No,IV,,MSS,p.G12D,,Yes,Yes,Liver,,
+122,Female,Yes,Resectable,Yes,II,G3,MSS,p.G12D,,Yes,Yes,"Local, Lung",,
+123,Male,Yes,Resectable,Yes,I,G3,MSS,,,Yes,Yes,Lung,,
+124,Male,Yes,Borderline resectable,Yes,III,,MSS,p.G12V,,Yes,Yes,"Local, Liver",,
+125,Male,Yes,Resectable,Yes,III,G2,MSS,,,No,No,,Negative,Negative
+126,Male,Yes,Resectable,Yes,I,G3,MSS,,,Yes,Yes,"Liver, Lung",Negative,
+127,Male,Yes,Borderline resectable,Yes,I,0,MSS,p.G12D,,No,No,,Negative,Negative
+128,Female,Yes,Resectable,Yes,III,G3,MSS,p.G12D,,Yes,No,,Negative,Negative
+129,Male,No,Resectable,Yes,III,,MSS,p.G12D,p.T2722R,Yes,No,,,Negative
+130,Male,No,Resectable,Yes,III,G3,MSS,p.G12D,,No,Yes,"Local, Lung",,
+131,Male,No,Unresectable,No,III,,MSS,p.G12D,,Yes,Yes,,,
+132,Female,No,Resectable,Yes,I,G2,MSS,p.Q61H,,Yes,No,,,Negative
+133,Female,No,Resectable,Yes,II,G2,MSS,p.G12V,,Yes,Yes,Lung,,
+134,Female,Yes,Borderline resectable,Yes,I,G2,MSS,p.Q61H,,Yes,Yes,Local,,
+135,Male,Yes,Resectable,Yes,II,G2,MSS,p.G12V,,Yes,Yes,"Local, Liver",,Positive
+136,Male,Yes,Resectable,Yes,I,G2,MSS,p.G12V,,Yes,No,,,Negative
+137,Female,No,Resectable,Yes,I,G2,MSS,p.G12R,,No,Yes,,,Positive
+138,Female,No,Resectable,Yes,I,,MSS,,,No,No,,Negative,Negative
+139,Male,Yes,Borderline resectable,Yes,II,,MSS,p.G12D,,No,Yes,Liver,Positive,
+140,Male,No,Resectable,Yes,II,G2,MSS,p.G12V,,Yes,Yes,Liver,,
+141,Male,Yes,Borderline resectable,No,III,,MSS,p.Q61H,,No,Yes,,,
+142,Female,No,Resectable,Yes,III,G2,MSS,p.G12R,,Yes,Yes,Lung,,
+143,Female,Yes,Resectable,Yes,II,G2,MSS,p.G12R,,Yes,Yes,Local,,Positive
+144,Male,Yes,Resectable,Yes,II,,MSS,p.G12V,,Yes,No,,Negative,Negative
+145,Male,No,Unresectable,No,IV,,MSS,p.G12D,,Yes,Yes,,,
+146,Male,No,Resectable,Yes,I,G2,MSS,p.G12D,,Yes,Yes,Local,,
+147,Male,No,Resectable,Yes,III,G2,MSS,p.G12V,,Yes,No,,Positive,
+148,Male,Yes,Resectable,Yes,II,,MSS,p.G12D,,Yes,Yes,Liver,,
+149,Female,No,Resectable,Yes,I,G2,MSS,p.G12V,,Yes,No,,,Negative
+150,Male,No,Unresectable,No,IV,,MSS,p.G12R,,Yes,Yes,,,
+151,Male,No,Resectable,Yes,III,G2,MSS,p.G12V,,No,Yes,,Positive,
+152,Male,Yes,Resectable,Yes,III,G2,MSS,p.G12D,,Yes,Yes,Liver,,
+153,Male,Yes,Borderline resectable,Yes,I,G2,MSS,p.G12V,,Yes,Yes,,,
+154,Male,Yes,Resectable,Yes,II,,MSS,p.G12V,,Yes,Yes,Lung,,
+155,Male,Yes,Resectable,Yes,II,G2,MSS,,,No,No,,,Positive
+156,Male,Yes,Resectable,Yes,II,G2,MSS,,,Yes,Yes,Lung,,Positive
+157,Male,Yes,Resectable,Yes,I,G2,MSS,,,Yes,No,,Negative,Negative
+158,Male,No,Resectable,Yes,I,G2,MSS,p.G12D,,Yes,No,,,Negative
+159,Female,Yes,Resectable,Yes,I,G3,MSS,,,Yes,Yes,Liver,,
+160,Male,No,Resectable,Yes,I,G3,MSS,p.G12V,,Yes,No,,Positive,
+161,Male,No,Resectable,Yes,I,,MSS,p.Q61H,,Yes,Yes,Liver,Positive,
+162,Female,Yes,Resectable,Yes,I,G3,MSS,,,Yes,Yes,Liver,Positive,
+163,Female,Yes,Resectable,Yes,III,G2,MSS,p.G12D,,No,No,,Positive,
+164,Male,Yes,Resectable,Yes,II,,MSS,,,Yes,No,,Negative,Negative
+165,Male,No,Unresectable,No,IV,,MSS,p.G12R,,No,No,,,
+166,Female,Yes,Resectable,Yes,II,,MSS,p.G12D,,Yes,Yes,Liver,,Positive
+167,Male,No,Resectable,Yes,III,G2,MSS,,,Yes,No,,,Negative
+168,Male,Yes,Borderline resectable,No,II,G2,MSS,p.G12D,,Yes,Yes,Liver,,
+169,Male,Yes,Resectable,No,I,G2,MSS,p.G12R,,No,Yes,,,
+170,Female,Yes,Borderline resectable,Yes,I,G2,MSS,p.G12D,,Yes,Yes,Liver,,Positive
+171,Male,No,Resectable,Yes,III,G2,MSS,p.G12D,,Yes,No,,,Negative
+172,Female,No,Resectable,Yes,II,G2,MSS,p.G12R,p.D2983*,Yes,No,,,Negative
+173,Male,No,Resectable,Yes,II,G1,MSS,p.G12D,,Yes,Yes,Local,,
+174,Female,No,Resectable,Yes,I,G1,MSS,p.G12R,,Yes,Yes,Liver,,Positive
+175,Female,No,Resectable,Yes,II,G2,MSS,,,Yes,No,,,Negative
+176,Female,Yes,Resectable,Yes,II,,MSS,,,Yes,Yes,Liver,Negative,Positive
+177,Male,Yes,Resectable,Yes,III,,MSS,,,Yes,Yes,Local,,
+178,Male,Yes,Resectable,Yes,III,G2,MSS,p.G12D,,Yes,No,,,Negative
+179,Female,No,Resectable,Yes,III,G2,MSS,p.G12D,,Yes,Yes,Liver,Positive,
+180,Male,Yes,Resectable,Yes,III,G2,MSS,p.G12D,,No,No,,Negative,
+181,Male,Yes,Resectable,Yes,I,G2,MSS,,,Yes,Yes,,,Negative
+182,Female,Yes,Resectable,Yes,I,G2,MSS,p.G12D,,Yes,No,,,Negative
+183,Female,Yes,Resectable,Yes,I,G2,MSS,,,No,Yes,Local,,Negative
+184,Female,No,Unresectable,No,IV,G2,MSS,p.G12V,,No,Yes,"Liver, Lung",,
+185,Female,Yes,Borderline resectable,Yes,II,G2,MSS,p.Q61H,,Yes,No,,Negative,
+186,Male,No,Resectable,Yes,IV,G2,MSS,,,No,Yes,Liver,,Positive
+187,Male,No,Resectable,Yes,I,G2,MSS,p.G12D,,No,No,,,Negative
+188,Female,No,Resectable,Yes,II,G2,MSS,"p.V14I, p.G12D",,Yes,Yes,Liver,Negative,
+189,Male,No,Borderline resectable,Yes,III,G2,MSS,p.G12V,,Yes,Yes,Liver,,
+190,Male,No,Resectable,Yes,I,G2,MSS,p.G12D,,No,Yes,Liver,,
+191,Male,Yes,Resectable,Yes,I,G3,MSS,,,Yes,No,,Negative,
+192,Male,Yes,Resectable,Yes,I,G3,MSS,,,No,No,,,Negative
+193,Female,Yes,Resectable,Yes,II,G3,MSS,p.G12D,,Yes,Yes,Liver,Negative,Positive
+194,Male,No,Resectable,Yes,I,G3,MSS,p.G12D,,Yes,No,,Negative,Negative
+195,Male,No,Resectable,Yes,III,G3,MSS,p.G12D,,Yes,Yes,Liver,Positive,
+196,Female,Yes,Resectable,Yes,II,G2,MSS,p.G12V,,Yes,No,,Negative,Negative
+197,Male,Yes,Resectable,Yes,I,,MSS,p.G12V,,No,Yes,Local,Negative,Positive
+198,Female,Yes,Borderline resectable,Yes,I,G2,MSS,p.G12V,,Yes,Yes,Lymph Node,Positive,Positive
+199,Female,Yes,Resectable,Yes,III,G2,MSS,,,Yes,Yes,Local,,
+200,Male,No,Resectable,Yes,I,G1,MSS,p.G12V,,No,No,,Negative,Negative
+201,Male,No,Resectable,No,I,,MSS,,,No,Yes,Liver,,Positive
+202,Male,No,Resectable,Yes,II,G1,MSS,p.Q61H,,Yes,Yes,Local,Negative,Negative
+203,Female,Yes,Resectable,Yes,I,G3,MSS,p.G12D,,Yes,Yes,Local,Negative,
+204,Male,No,Resectable,Yes,III,G2,MSS,p.G12V,,Yes,Yes,Liver,,Positive
+205,Male,No,Unresectable,No,III,,MSS,p.G12D,,No,Yes,,,
+206,Male,No,Resectable,Yes,I,G2,MSS,p.G12R,,Yes,Yes,,Negative,
+207,Female,Yes,Resectable,Yes,III,G2,MSS,,,Yes,Yes,Local,,
+208,Female,No,Resectable,Yes,I,G2,MSS,p.G12V,"p.G637S, p.V1283Kfs*2",Yes,No,,Negative,Negative
+209,Male,No,Unresectable,No,IV,,MSS,p.G12R,,Yes,Yes,Liver,,
+210,Female,Yes,Borderline resectable,Yes,II,G2,MSS,p.G12R,,No,No,,,Negative
+211,Male,Yes,Borderline resectable,No,I,G2,MSS,p.G12V,,Yes,Yes,Liver,,Positive
+212,Male,No,Resectable,Yes,III,G1,MSS,,,Yes,No,,,Negative
+213,Female,Yes,Resectable,Yes,II,G3,MSS,,,Yes,No,,,Negative
+214,Male,Yes,Resectable,Yes,II,G2,MSS,,,No,No,,,Negative
+215,Female,No,Resectable,Yes,I,G3,MSS,p.G12V,,Yes,Yes,Liver,Positive,
+216,Female,Yes,Resectable,Yes,III,G2,MSS,,,Yes,No,,,Negative
+217,Male,Yes,Borderline resectable,Yes,III,G1,MSS,p.G12R,,Yes,No,,Negative,Negative
+218,Male,No,Unresectable,Yes,I,,MSS,p.G12V,p.E621*,Yes,Yes,Liver,,
+219,Female,No,Resectable,No,I,,MSS,,,Yes,Yes,,,Negative
+220,Female,Yes,Resectable,Yes,I,G3,MSS,p.G12D,,Yes,Yes,"Liver, Lung",Negative,Positive
+221,Male,No,Resectable,Yes,I,G2,MSS,,,Yes,No,,Negative,Negative
+222,Female,No,Resectable,Yes,I,G1,MSS,p.G12V,,Yes,No,,,
+223,Female,No,Resectable,Yes,I,G2,MSS,,,No,No,,,Negative
+224,Male,No,Resectable,Yes,II,G2,MSS,,,Yes,No,,Negative,Negative
+225,Female,No,Unresectable,No,IV,,MSS,,,Yes,Yes,Liver,,
+226,Male,No,Resectable,Yes,I,G3,MSS,p.G12R,,Yes,No,,,Negative
+227,Female,Yes,Resectable,Yes,III,G2,MSS,p.G12R,,No,No,,,Negative
+228,Female,Yes,Resectable,Yes,III,G2,MSS,p.G12R,,Yes,Yes,Local,Negative,Positive
+229,Male,Yes,Resectable,Yes,I,G3,MSS,p.G12V,,Yes,Yes,Liver,Negative,
+230,Female,Yes,Resectable,Yes,II,G2,MSS,p.G12R,,No,No,,Negative,Negative
+231,Male,No,Resectable,Yes,III,G2,MSS,,,Yes,Yes,,,Positive
+232,Female,Yes,Borderline resectable,No,II,,MSS,p.G12V,,Yes,Yes,Local,,
+233,Female,Yes,Resectable,Yes,II,G2,MSS,,,No,No,,,Negative
+234,Female,Yes,Resectable,Yes,III,G3,MSS,p.G12V,,Yes,No,,,Negative
+235,Male,No,Resectable,Yes,III,G1,MSS,,,No,No,,,Negative
+236,Female,Yes,Resectable,Yes,II,G3,MSS,p.G12R,,Yes,No,,,
+237,Female,Yes,Resectable,Yes,II,G3,MSS,p.G12D,,No,No,,,Negative
+238,Male,No,Resectable,Yes,I,G2,MSS,,,Yes,No,,,Negative
+239,Female,No,Resectable,Yes,II,G2,MSS,p.G12R,,Yes,Yes,Liver,Positive,Positive
+240,Male,No,Resectable,Yes,I,G2,MSS,p.G12R,,Yes,Yes,Pelvis,,
+241,Male,Yes,Resectable,No,II,G3,MSS,p.G12V,,No,Yes,,,
+242,Male,No,Resectable,Yes,II,G2,MSS,p.G12D,,Yes,Yes,Local,Positive,
+243,Female,No,Resectable,Yes,I,G2,MSS,p.G12V,,Yes,No,,,
+244,Male,No,Resectable,Yes,III,G3,MSS,p.G12D,,Yes,No,,,
+245,Female,No,Unresectable,No,IV,G2,MSS,p.G12V,,Yes,No,,,
+246,Male,Yes,Resectable,Yes,II,G3,MSS,p.G12V,,Yes,No,,,Negative
+247,Male,Yes,Resectable,No,II,G2,MSS,,,No,Yes,,,Negative
+248,Male,Yes,Borderline resectable,Yes,II,,MSS,p.Q61H,,Yes,No,,Negative,
+249,Female,No,Resectable,Yes,I,G2,MSS,p.G12R,,No,No,,Negative,Negative
+250,Male,Yes,Borderline resectable,Yes,I,0,MSS,p.G12D,,No,No,,,Negative
+251,Male,Yes,Resectable,Yes,I,G2,MSS,p.G12V,,Yes,Yes,Local,Positive,Positive
+252,Female,No,Unresectable,No,IV,G2,MSS,p.G12V,,Yes,Yes,,,Positive
+253,Female,No,Unresectable,No,IV,G2,MSS,p.G12D,,No,Yes,Liver,,
+254,Male,No,Borderline resectable,Yes,II,G2,MSS,p.G12V,,Yes,Yes,Liver,,
+255,Female,Yes,Borderline resectable,Yes,I,G2,MSS,p.G12R,,Yes,No,,,Negative
+256,Male,Yes,Resectable,Yes,II,G3,MSS,p.Q61R,,Yes,No,,,Negative
+257,Male,Yes,Resectable,Yes,III,G2,MSS,p.G12D,,Yes,No,,,Negative
+258,Female,No,Resectable,Yes,II,G3,MSS,p.G12V,,Yes,Yes,"Local, Lung",,Positive
+259,Female,Yes,Resectable,Yes,I,G2,MSS,p.G12D,,No,No,,Negative,Negative
+260,Female,Yes,Borderline resectable,No,III,,MSS,,p.K242Q,No,Yes,,,Positive
+261,Female,No,Unresectable,No,IV,,MSS,,,No,No,,,
+262,Female,Yes,Resectable,Yes,II,,MSS,,,Yes,No,,Negative,Negative
+263,Female,Yes,Resectable,Yes,IV,G1,MSS,,,Yes,No,,,Negative
+264,Male,No,Unresectable,No,IV,,MSS,p.G12D,,Yes,No,,,
+265,Female,Yes,Resectable,Yes,IV,G2,MSS,p.G12D,,No,No,,,
+266,Male,Yes,Resectable,Yes,II,G2,MSS,,,Yes,No,,,Negative
+267,Male,No,Resectable,Yes,II,G2,MSS,,,Yes,No,,,Negative
+268,Female,Yes,Resectable,Yes,III,G2,MSS,p.G12V,,No,No,,Negative,
+269,Male,Yes,Unresectable,No,II,,MSS,p.G12V,,No,Yes,Liver,,Positive
+270,Female,Yes,Resectable,Yes,I,G1,MSS,,,Yes,Yes,"Lung, Bone",,Positive
+271,Male,Yes,Borderline resectable,Yes,I,,MSS,p.G12D,,No,No,,,Negative
+272,Female,No,Unresectable,No,IV,G2,MSS,p.G12R,,No,Yes,,,
+273,Female,Yes,Resectable,Yes,III,G2,MSS,,,Yes,Yes,Peritoneum,Negative,Negative
+274,Male,No,Resectable,Yes,III,G2,MSS,p.G12D,,Yes,No,,Positive,Negative
+275,Female,Yes,Resectable,Yes,I,G1,MSS,,,Yes,No,,,Negative
+276,Male,No,Resectable,Yes,I,G3,MSS,p.G12V,,No,Yes,Liver,Positive,
+277,Male,No,Unresectable,No,IV,G2,MSS,,,No,Yes,"Liver, Peritoneum",,
+278,Female,No,Borderline resectable,No,III,,MSS,p.G12D,p.E1250K,Yes,Yes,,,
+279,Female,No,Resectable,Yes,III,G2,MSS,,,Yes,No,,Negative,
+280,Female,Yes,Borderline resectable,Yes,I,G3,MSS,,,Yes,No,,Negative,
+281,Female,No,Resectable,Yes,II,G2,MSS,p.G12V,,Yes,No,,Negative,Negative
+282,Female,No,Resectable,Yes,I,G2,MSS,p.G12R,,Yes,No,,,Positive
+283,Male,Yes,Borderline resectable,Yes,II,,MSS,,,No,No,,Negative,
+284,Male,No,Resectable,Yes,III,G2,MSS,p.G12V,,Yes,No,,,
+285,Male,Yes,Borderline resectable,Yes,II,G1,MSS,,,Yes,No,,,Negative
+286,Female,Yes,Borderline resectable,Yes,III,G2,MSS,p.G12V,,Yes,Yes,"Local, Bone",Positive,Positive
+287,Male,No,Resectable,Yes,I,G3,MSS,,,Yes,No,,,Negative
+288,Male,No,Resectable,Yes,II,G2,MSS,p.G12V,,Yes,No,,,Negative
+289,Female,No,Unresectable,No,IV,,MSS,p.G12V,,Yes,Yes,Liver,,
+290,Female,No,Resectable,Yes,III,G2,MSS,p.G12R,,Yes,No,,Negative,
+291,Male,No,Resectable,Yes,II,G2,MSS,,,Yes,No,,,Negative
+292,Male,No,Unresectable,No,IV,,MSS,p.G12D,,Yes,Yes,"Liver, Brain",,
+293,Male,No,Resectable,Yes,II,G2,MSS,,,No,No,,Negative,Negative
+294,Male,No,Resectable,Yes,II,G1,MSS,p.G12V,,Yes,No,,Negative,
+295,Male,No,Unresectable,No,IV,,MSS,,,Yes,Yes,,,
+296,Female,No,Borderline resectable,No,IV,G2,MSS,p.G13D,,Yes,Yes,,,Positive
+297,Female,No,Borderline resectable,Yes,III,G2,MSS,p.G12D,,No,No,,Positive,
+298,Male,No,Resectable,Yes,I,G1,MSS,p.G12D,,Yes,No,,,
+299,Female,No,Resectable,Yes,I,G3,MSS,"p.Q61H, p.Q61L",,Yes,Yes,Local,Negative,Positive
+300,Male,Yes,Resectable,Yes,II,,MSS,p.G12R,,Yes,No,,,
+301,Male,Yes,Resectable,Yes,II,,MSS,p.G12D,,Yes,Yes,,Positive,
+302,Female,Yes,Resectable,Yes,I,,MSS,p.G12V,,Yes,No,,Negative,Negative
+303,Male,Yes,Resectable,Yes,II,,MSS,"p.G12R, p.G12V",,Yes,No,,,
+304,Male,Yes,Resectable,Yes,II,,MSS,p.G12D,,Yes,Yes,,,Positive
+305,Female,Yes,Resectable,Yes,II,,MSS,p.G12R,,Yes,No,,Negative,
+306,Female,Yes,Resectable,Yes,II,,MSS,p.G12V,,No,No,,,
+307,Female,Yes,Resectable,Yes,II,,MSS,p.G12D,,Yes,Yes,,,Negative
+308,Male,Yes,Resectable,Yes,II,,MSS,,,Yes,No,,Negative,
+309,Male,Yes,Resectable,Yes,II,,MSS,,,No,No,,,
+310,Male,Yes,Resectable,Yes,I,,MSS,p.G12R,,Yes,No,,Negative,
+311,Male,Yes,Resectable,Yes,II,,MSS,p.G12V,,No,Yes,,,
+312,Male,Yes,Resectable,Yes,II,,MSS,p.G12D,,Yes,Yes,,,
+313,Female,Yes,Resectable,Yes,II,,MSS,p.G12D,,No,Yes,,,
+314,Male,Yes,Resectable,Yes,II,,MSS,p.G12R,,Yes,No,,Negative,
+315,Female,Yes,Resectable,Yes,II,,MSS,,,Yes,No,,,
+316,Male,Yes,Resectable,Yes,IV,,MSS,p.G12V,,Yes,No,,Negative,
+317,Female,Yes,Resectable,Yes,II,,MSS,p.G12D,,Yes,Yes,,Negative,Negative
+318,Male,Yes,Resectable,Yes,II,,MSS,p.G12V,,No,Yes,,,
+319,Male,Yes,Resectable,Yes,II,,MSS,p.G12R,,No,Yes,,,
+320,Male,Yes,Resectable,Yes,II,,MSS,p.G12R,,Yes,No,,Negative,
+321,Male,Yes,Resectable,Yes,II,,MSS,,,Yes,No,,Negative,
+322,Male,Yes,Resectable,Yes,II,,MSS,p.G12V,,Yes,Yes,,Positive,
